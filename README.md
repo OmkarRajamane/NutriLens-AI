@@ -28,7 +28,7 @@ NutriLens AI is an AI-based application that analyzes food images and estimates 
 
 ### Home Page
 
-"C:\Users\omkar\OneDrive\Pictures\Screenshots 1\Screenshot 2026-09-02 124417.png"
+<img width="1652" height="904" alt="image" src="C:\Users\omkar\OneDrive\Pictures\Screenshots 1" />
 
 ### Result Page
 
