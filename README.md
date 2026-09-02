@@ -36,6 +36,8 @@ NutriLens AI is an AI-based application that analyzes food images and estimates 
 
 <img width="1916" height="908" alt="Screenshot 2026-09-02 124523" src="https://github.com/user-attachments/assets/d23be3ee-408a-43e9-8c12-06af24c62823" />
 
+<img width="1897" height="902" alt="image" src="https://github.com/user-attachments/assets/1d4614f4-2d52-4466-a23f-6e2c75a7a0ec" />
+
 ## How to Run
 
 1. Clone the repository.
