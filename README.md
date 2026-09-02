@@ -14,7 +14,7 @@ NutriLens AI is an AI-based application that analyzes food images and estimates 
 - Nutrition estimation
 - Simple and interactive interface
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Flask
@@ -46,21 +46,15 @@ NutriLens AI is an AI-based application that analyzes food images and estimates 
 
 ```bash
 pip install -r requirements.txt
-```
+```
 
-3. Add your Groq API key to the `.env` file:
-
-```env
-GROQ_API_KEY=your_api_key_here
-```
-
-4. Run the application:
+3. Run the application:
 
 ```bash
 python app.py
 ```
 
-5. Open `http://127.0.0.1:5000` in your browser.
+4. Open `http://127.0.0.1:5000` in your browser.
 
 ## Future Improvements
 
@@ -69,6 +63,6 @@ python app.py
 - Improve portion estimation
 - Add nutrition history and tracking
 
-## 👨‍💻 Author
+## Author
 
 Omkar Rajamane
