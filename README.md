@@ -6,6 +6,10 @@ AI-Based Food & Nutrition Estimator
 
 NutriLens AI is an AI-based application that analyzes food images and estimates nutritional information such as calories, protein, carbohydrates, and fats.
 
+## 🌐 Live Demo
+
+[omkarrajamane.pythonanywhere.com](https://omkarrajamane.pythonanywhere.com/)
+
 ## Features
 
 - Image-based food analysis
