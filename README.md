@@ -18,7 +18,7 @@ NutriLens AI is an AI-based application that analyzes food images and estimates 
 - Nutrition estimation
 - Simple and interactive interface
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Flask
@@ -73,6 +73,6 @@ python app.py
 - Improve portion estimation
 - Add nutrition history and tracking
 
-## 👨‍💻 Author
+## Author
 
 Omkar Rajamane
